@@ -1,6 +1,6 @@
-KCA University Enterprise Network Design
+**KCA University Enterprise Network Design**
 
-Project Overview
+**Project Overview**
 
 This project follows a pragmatic approach towards the simulation of a modern enterprise network designed for **KCA University**.
 The goal was to build a secure, scalable, and resilient topology that connects multiple departments, ensures seamless communication, and enforces security at the routing level.
