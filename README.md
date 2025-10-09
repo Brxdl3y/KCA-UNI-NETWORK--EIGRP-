@@ -10,7 +10,7 @@ The goal was to build a secure, scalable, and resilient topology that connects m
 🔹 Reflects real-world enterprise networking challenges
 
 
-Topology Design
+**Topology Design**
 
 Departments & Core Components
 
