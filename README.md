@@ -29,7 +29,7 @@ Datacenter – Router R5 (central services)
 ISP Provider – Cloud connection for internet access
 
 
-⚙️ Key Technical Features
+**Key Technical Features**
 
 🔹 Routing & Redundancy
 
