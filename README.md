@@ -46,7 +46,7 @@ Triangular core between R2, R4, and R5 for fault tolerance
 Ensures alternative paths during link failures
 
 
-🔹 Security Hardening
+Security Hardening
 
 MD5 Authentication on every router and switch – protects against rogue routing updates
 
