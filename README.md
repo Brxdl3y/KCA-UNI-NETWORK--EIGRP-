@@ -31,7 +31,7 @@ ISP Provider – Cloud connection for internet access
 
 **Key Technical Features**
 
-🔹 Routing & Redundancy
+ **Routing & Redundancy**
 
 EIGRP (Enhanced Interior Gateway Routing Protocol)
 
