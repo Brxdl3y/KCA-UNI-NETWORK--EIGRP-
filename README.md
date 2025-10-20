@@ -55,7 +55,7 @@ Passive Interfaces – LAN-facing ports silenced to minimize unnecessary traffic
 Controlled ISP Edge – only R4 permitted to exchange traffic with external provider
 
 
- Network Optimization
+ **Network Optimization**
 
 Subnetting (VLSM) – IP space efficiently divided per department
 
