@@ -64,7 +64,7 @@ Hierarchical Design – Core, Distribution, Access layers clearly separated
 Traffic Segmentation – Different subnets for each department improve security & manageability
 
 
-🔹 Scalability & Future-Readiness
+Scalability & Future-Readiness
 
 Design supports easy expansion (new departments, VLANs, or services)
 
