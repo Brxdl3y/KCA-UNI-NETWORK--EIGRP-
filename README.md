@@ -88,7 +88,7 @@ Enterprise Design Principles (hierarchical layers, redundancy)
 Network Simulation & Troubleshooting using Cisco CLI
 
 
-Why This Project Matters
+**Why This Project Matters**
 
 This isn’t just a Packet Tracer exercise — it’s a blueprint of how a real organization would design its network:
 ✔️ Secure (protected routing, minimized attack vectors)
