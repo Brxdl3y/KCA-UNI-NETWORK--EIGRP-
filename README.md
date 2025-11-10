@@ -8,12 +8,13 @@ The goal was to build a **secure, scalable**, and **resilient** topology that co
 🔹 Built on Cisco Packet Tracer
 
 🔹 Implements industry-grade routing & security best practices
+
 🔹 Reflects real-world enterprise networking challenges
 
 
 **Topology Design**
 
-Departments & Core Components
+**Departments & Core Components**
 
 Technology Dept. – Router R1 + PC1
 
