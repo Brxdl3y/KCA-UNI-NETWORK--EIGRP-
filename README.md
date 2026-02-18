@@ -94,7 +94,9 @@ Network Simulation & Troubleshooting using Cisco CLI
 
 This isn’t just a Packet Tracer exercise — it’s a blueprint of how a real organization would design its network:
 ✔️ Secure (protected routing, minimized attack vectors)
+
 ✔️ Scalable (future-ready with structured subnetting & hierarchy)
+
 ✔️ Resilient (redundancy in the core, datacenter hub)
 ✔️ Efficient (optimized routing & reduced unnecessary traffic)
 
