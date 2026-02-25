@@ -100,7 +100,7 @@ This isn’t just a Packet Tracer exercise — it’s a blueprint of how a real 
 
 ✔️ Resilient (redundancy in the core, datacenter hub)
 
-✔️ Efficient (optimized routing & reduced unnecessary traffic)
+✔️ Efficient (optimized routing & reduced unnecessary traffic).
 
 
 How to Use
