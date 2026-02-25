@@ -75,7 +75,7 @@ Datacenter (R5) acts as hub for centralized services (DNS, storage, authenticati
 Ready for migration to OSPF or BGP in larger deployments
 
 
-Learning Outcomes & Competencies
+**Learning Outcomes & Competencies**
 
 From this project I demonstrated and strengthened:
 
