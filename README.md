@@ -103,7 +103,7 @@ This isn’t just a Packet Tracer exercise — it’s a blueprint of how a real 
 ✔️ Efficient (optimized routing & reduced unnecessary traffic).
 
 
-How to Use
+**How to Use**
 
 Open the **.pkt** file in Cisco Packet Tracer
 
