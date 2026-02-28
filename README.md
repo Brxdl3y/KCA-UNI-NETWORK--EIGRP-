@@ -110,3 +110,5 @@ Open the **.pkt** file in Cisco Packet Tracer
 Start all devices and verify connectivity with ping and tracert
 
 Review router configurations inside the **command.txt** folder
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bradley-giovanniii293) 
