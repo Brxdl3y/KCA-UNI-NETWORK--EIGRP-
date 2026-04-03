@@ -35,13 +35,13 @@ ISP Provider – Cloud connection for internet access
 
  **Routing & Redundancy**
 
-EIGRP (Enhanced Interior Gateway Routing Protocol)
+🔷EIGRP (Enhanced Interior Gateway Routing Protocol)
 
-Fast convergence and efficient path selection
+🔷Fast convergence and efficient path selection
 
-Summarization applied for routing table optimization
+🔷Summarization applied for routing table optimization
 
-Redundancy Links
+🔷Redundancy Links
 
 Triangular core between R2, R4, and R5 for fault tolerance
 
