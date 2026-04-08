@@ -43,9 +43,9 @@ ISP Provider – Cloud connection for internet access
 
 🔷Redundancy Links
 
-Triangular core between R2, R4, and R5 for fault tolerance
+🔷Triangular core between R2, R4, and R5 for fault tolerance
 
-Ensures alternative paths during link failures
+🔷Ensures alternative paths during link failures
 
 
 **Security Hardening**
