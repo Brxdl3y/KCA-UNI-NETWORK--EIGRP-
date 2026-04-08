@@ -1,6 +1,6 @@
 **KCA University Enterprise Network Design**
 
-**Project Overview**
+📌**Project Overview**
 
 This project follows a pragmatic approach towards the simulation of a modern enterprise network designed for **KCA University**.
 The goal was to build a **secure, scalable**, and **resilient** topology that connects multiple departments, ensures seamless communication, and enforces security at the routing level.
@@ -12,7 +12,7 @@ The goal was to build a **secure, scalable**, and **resilient** topology that co
 🔹 Reflects real-world enterprise networking challenges
 
 
-**Topology Design**
+📌**Topology Design**
 
 **Departments & Core Components**
 
@@ -31,7 +31,7 @@ Datacenter – Router R5 (central services)
 ISP Provider – Cloud connection for internet access
 
 
-**Key Technical Features**
+📌**Key Technical Features**
 
  **Routing & Redundancy**
 
@@ -90,7 +90,7 @@ Enterprise Design Principles (hierarchical layers, redundancy)
 Network Simulation & Troubleshooting using Cisco CLI
 
 
-**Why This Project Matters**
+📌**Why This Project Matters**
 
 This isn’t just a Packet Tracer exercise — it’s a blueprint of how a real organization would design its network:
 
