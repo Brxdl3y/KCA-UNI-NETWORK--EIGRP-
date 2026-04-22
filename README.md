@@ -22,7 +22,7 @@ The goal was to build a **secure, scalable**, and **resilient** topology that co
 
 ➔Business Dept. – Router R4 + PC3
 
-Education Dept. – Router R3
+➔Education Dept. – Router R3
 
 Administration Core – Router R2 (acts as backbone control)
 
