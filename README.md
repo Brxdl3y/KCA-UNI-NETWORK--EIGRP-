@@ -16,11 +16,11 @@ The goal was to build a **secure, scalable**, and **resilient** topology that co
 
 **Departments & Core Components**
 
-Technology Dept. – Router R1 + PC1
+➔Technology Dept. – Router R1 + PC1
 
-Financial Dept. – PC2 via Multilayer Switch
+➔Financial Dept. – PC2 via Multilayer Switch
 
-Business Dept. – Router R4 + PC3
+➔Business Dept. – Router R4 + PC3
 
 Education Dept. – Router R3
 
