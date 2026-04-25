@@ -24,11 +24,11 @@ The goal was to build a **secure, scalable**, and **resilient** topology that co
 
 ➔Education Dept. – Router R3
 
-Administration Core – Router R2 (acts as backbone control)
+➔Administration Core – Router R2 (acts as backbone control)
 
-Datacenter – Router R5 (central services)
+➔Datacenter – Router R5 (central services)
 
-ISP Provider – Cloud connection for internet access
+➔ISP Provider – Cloud connection for internet access
 
 
 📌**Key Technical Features**
