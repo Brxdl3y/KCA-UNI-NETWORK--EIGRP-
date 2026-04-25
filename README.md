@@ -77,13 +77,13 @@ Ready for migration to OSPF or BGP in larger deployments
 
 **Learning Outcomes & Competencies**
 
-From this project I demonstrated and strengthened:
+➤From this project I demonstrated and strengthened:
 
-Routing Protocols (EIGRP, future-proofing with OSPF/BGP)
+➤Routing Protocols (EIGRP, future-proofing with OSPF/BGP)
 
-Routing Security (MD5 authentication, passive interfaces)
+➤Routing Security (MD5 authentication, passive interfaces)
 
-Subnetting & IP Design (VLSM, departmental allocation)
+➤Subnetting & IP Design (VLSM, departmental allocation)
 
 Enterprise Design Principles (hierarchical layers, redundancy)
 
