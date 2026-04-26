@@ -85,9 +85,9 @@ Ready for migration to OSPF or BGP in larger deployments
 
 ➤Subnetting & IP Design (VLSM, departmental allocation)
 
-Enterprise Design Principles (hierarchical layers, redundancy)
+➤Enterprise Design Principles (hierarchical layers, redundancy)
 
-Network Simulation & Troubleshooting using Cisco CLI
+➤Network Simulation & Troubleshooting using Cisco CLI
 
 
 📌**Why This Project Matters**
