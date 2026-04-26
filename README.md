@@ -48,7 +48,7 @@ The goal was to build a **secure, scalable**, and **resilient** topology that co
 🔷Ensures alternative paths during link failures
 
 
-**Security Hardening**
+📌**Security Hardening**
 
 MD5 Authentication on every router and switch – protects against rogue routing updates
 
@@ -57,7 +57,7 @@ Passive Interfaces – LAN-facing ports silenced to minimize unnecessary traffic
 Controlled ISP Edge – only R4 permitted to exchange traffic with external provider
 
 
- **Network Optimization**
+📌 **Network Optimization**
 
 Subnetting (VLSM) – IP space efficiently divided per department
 
@@ -66,7 +66,7 @@ Hierarchical Design – Core, Distribution, Access layers clearly separated
 Traffic Segmentation – Different subnets for each department improve security & manageability
 
 
-**Scalability & Future-Readiness**
+📌**Scalability & Future-Readiness**
 
 Design supports easy expansion (new departments, VLANs, or services)
 
@@ -75,7 +75,7 @@ Datacenter (R5) acts as hub for centralized services (DNS, storage, authenticati
 Ready for migration to OSPF or BGP in larger deployments
 
 
-**Learning Outcomes & Competencies**
+📌**Learning Outcomes & Competencies**
 
 ➤From this project I demonstrated and strengthened:
 
